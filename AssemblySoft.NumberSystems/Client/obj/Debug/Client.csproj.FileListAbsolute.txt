@@ -1,0 +1,9 @@
+D:\ProjectsTest\AssemblySoft.NumberSystems_V1_0\AssemblySoft.NumberSystems\Client\bin\Debug\Client.exe.config
+D:\ProjectsTest\AssemblySoft.NumberSystems_V1_0\AssemblySoft.NumberSystems\Client\bin\Debug\Client.exe
+D:\ProjectsTest\AssemblySoft.NumberSystems_V1_0\AssemblySoft.NumberSystems\Client\bin\Debug\Client.pdb
+D:\ProjectsTest\AssemblySoft.NumberSystems_V1_0\AssemblySoft.NumberSystems\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\ProjectsTest\AssemblySoft.NumberSystems_V1_0\AssemblySoft.NumberSystems\Client\obj\Debug\Client.Form1.resources
+D:\ProjectsTest\AssemblySoft.NumberSystems_V1_0\AssemblySoft.NumberSystems\Client\obj\Debug\Client.Properties.Resources.resources
+D:\ProjectsTest\AssemblySoft.NumberSystems_V1_0\AssemblySoft.NumberSystems\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\ProjectsTest\AssemblySoft.NumberSystems_V1_0\AssemblySoft.NumberSystems\Client\obj\Debug\Client.exe
+D:\ProjectsTest\AssemblySoft.NumberSystems_V1_0\AssemblySoft.NumberSystems\Client\obj\Debug\Client.pdb
