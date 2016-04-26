@@ -87,7 +87,7 @@ namespace NumberSystemConverter_UnitTests
             var converter = new RomanNumeralConverter();
             var result = converter.ConvertRomanNumeral(599);
 
-            Assert.AreEqual(result, "DLXXXXVIII");
+            Assert.AreEqual(result, "DLXXXXVIIII");
 
         }
 
@@ -97,7 +97,7 @@ namespace NumberSystemConverter_UnitTests
             var converter = new RomanNumeralConverter();
             var result = converter.ConvertRomanNumeral(2013);
 
-            Assert.AreEqual(result, "MMXIIII");
+            Assert.AreEqual(result, "MMXIII");
 
         }
 
