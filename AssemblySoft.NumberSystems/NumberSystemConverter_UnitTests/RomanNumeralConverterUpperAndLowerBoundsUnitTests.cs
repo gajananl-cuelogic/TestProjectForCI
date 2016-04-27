@@ -47,7 +47,7 @@ namespace NumberSystemConverter_UnitTests
             var converter = new RomanNumeralConverter();
             var result = converter.ConvertRomanNumeral(3000);
 
-            Assert.AreEqual(result, "MMM");
+            Assert.AreEqual(result, "MMMM");
 
         }
 
