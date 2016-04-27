@@ -11,8 +11,8 @@ namespace NumberSystemConverter_UnitTests
         [TestMethod]
         [ExpectedException(typeof (IndexOutOfRangeException))]
         public void Number_Greater_Than_ThreeThousand_Throws_IndexOutOfRangeException_TestMethod()
-        {
-            //update on 4/26/2016 at 8:13
+        {bvnbvnb
+            //update on 4/26/2016 at 3:40
             var converter = new RomanNumeralConverter();
             converter.ConvertRomanNumeral(3001);
         }
