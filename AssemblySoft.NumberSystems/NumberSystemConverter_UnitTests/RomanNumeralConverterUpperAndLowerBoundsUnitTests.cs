@@ -34,10 +34,10 @@ namespace NumberSystemConverter_UnitTests
         [TestMethod]
         public void Number_Equal_One_Expected_Result_I_TestMethod()
         {
-            var converter = new RomanNumeralConverter();
-            var result = converter.ConvertRomanNumeral(1);
+                    var converter = new RomanNumeralConverter();
+                    var result = converter.ConvertRomanNumeral(1);
 
-            Assert.AreEqual(result, "I");
+                    Assert.AreEqual(result, "I");
 
         }
 
