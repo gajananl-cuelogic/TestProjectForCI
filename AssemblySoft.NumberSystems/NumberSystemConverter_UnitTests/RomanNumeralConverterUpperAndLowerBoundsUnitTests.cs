@@ -37,7 +37,7 @@ namespace NumberSystemConverter_UnitTests
             var converter = new RomanNumeralConverter();
             var result = converter.ConvertRomanNumeral(1);
 
-            Assert.AreEqual(result, "I");
+            Assert.AreEqual(result, "II");
 
         }
 
@@ -45,8 +45,8 @@ namespace NumberSystemConverter_UnitTests
         public void Number_Equal_ThreeThousand_Expected_Result_MMM_TestMethod()
         {
                var converter = new RomanNumeralConverter();
-            var result = converter.ConvertRomanNumeral(3000);
-            Assert.AreEqual(result, "MMM");
+               var result = converter.ConvertRomanNumeral(3000);
+               Assert.AreEqual(result, "MMMMM");
             
 
         }
@@ -54,10 +54,10 @@ namespace NumberSystemConverter_UnitTests
         [TestMethod]
         public void Number_Equal_55_Expected_Result_LV_TestMethod()
         {
-            var converter = new RomanNumeralConverter();
-            var result = converter.ConvertRomanNumeral(55);
+                    var converter = new RomanNumeralConverter();
+                    var result = converter.ConvertRomanNumeral(55);
 
-            Assert.AreEqual(result, "LV");
+                    Assert.AreEqual(result, "LV");
 
         }
 
