@@ -37,7 +37,7 @@ namespace NumberSystemConverter_UnitTests
             var converter = new RomanNumeralConverter();
             var result = converter.ConvertRomanNumeral(1);
 
-            Assert.AreEqual(result, "");
+            Assert.AreEqual(result, "I");
 
         }
 
