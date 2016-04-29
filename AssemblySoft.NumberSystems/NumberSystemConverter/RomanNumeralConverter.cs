@@ -97,8 +97,8 @@ namespace NumberSystemConverter
         public string ConvertRomanNumeral(int number)
          {
             if (number < 1 || number > 3000)
-            {
-                throw  new IndexOutOfRangeException("The number supplied is out of the expected range (1 - 3000).");
+            {  
+                  throw  new IndexOutOfRangeException("The number supplied is out of the expected range (1 - 3000).");
             }
 
             var builder = new StringBuilder();
